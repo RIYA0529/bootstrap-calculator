@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    margin-top:50px;
+    font-family:Arial;
+}
+
+.calculator{
+    border:1px solid black;
+    width:250px;
+    margin:auto;
+    padding:20px;
+}
+
+button{
+    width:40px;
+    height:40px;
+}
